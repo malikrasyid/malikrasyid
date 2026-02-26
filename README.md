@@ -57,15 +57,7 @@ My development stack is chosen for performance, modularity, and maintainability 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=malikrasyid&show_icons=true&theme=nord&hide_border=true&title_color=2E3440&icon_color=4C566A&text_color=4C566A" 
-    alt="Malik Al Rasyidi GitHub Stats" 
-  />
-  &nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrasyid&layout=compact&theme=nord&hide_border=true&title_color=2E3440&text_color=4C566A" 
-    alt="Malik Al Rasyidi Top Languages" 
-  />
+  <img src="github-metrics.svg" alt="Malik Al Rasyidi GitHub Metrics" />
 </p>
 
 ---
